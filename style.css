@@ -107,7 +107,7 @@ ul {
 .top-banner {
  justify-content: center;
  background-color: #4fb3d4;
- background-image: url(../images/asset\ 32.png);
+ background-image: url(asset\ 32.png);
  background-size: 300px;
 }
 
@@ -192,7 +192,7 @@ width: 600px;
 
 .features-section {
  padding: 80px var(--padding-inline-section) 0px;
- background-image: url(../images/asset\ 34.svg);
+ background-image: url(asset\ 34.svg);
  background-repeat: no-repeat;
  background-position: center;
 }
@@ -265,7 +265,7 @@ margin-bottom: 40px;
  position: relative;
  height: 300px;
  background: black;
- background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)),url(../images/asset\ 36.jpeg);
+ background: linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.8)),url(asset\ 36.jpeg);
  background-size: cover;
  transition: 0.2s ease-out;
 }
