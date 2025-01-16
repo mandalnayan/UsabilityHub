@@ -145,6 +145,12 @@ ul {
   display: none; /* Hide close icon initially */
 }
 
+@media(max-width: 768px) {
+.nav-links ul {
+    justify-content: end;
+    gap: 20px !important;
+}
+}
 /* Media query for desktop screens */
 @media (min-width: 768px) {
   .nav-links {
