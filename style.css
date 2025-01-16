@@ -152,6 +152,11 @@ ul {
 }
 }
 /* Media query for desktop screens */
+@media(min-width: 901px) {
+#close-outline {
+    display: none;
+}
+}
 @media (min-width: 768px) {
   .nav-links {
     display: flex; /* Show navigation menu on larger screens */
