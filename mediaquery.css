@@ -12,7 +12,9 @@
    margin-right: 20px;
   }
 
-
+.fa-xmark:before {
+ font-size: 25px;
+}
   .main-nav {
    overflow: initial;
   }
