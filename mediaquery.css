@@ -30,7 +30,6 @@
   .nav-links ul{
    flex-direction: column;
   } 
-  
 
  .header-right img {
   width: 100%;
@@ -50,7 +49,6 @@
  .primary-button {
   width: 100%;
  }
-
 
  .header-section {
   flex-direction: column-reverse;
